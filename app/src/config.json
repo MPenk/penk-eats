@@ -1,0 +1,58 @@
+{
+    "API_URL2": "https://foka.umg.edu.pl/~s46362/projekt/api",
+    "API_URL": "http://foka.umg.edu.pl:6362/api",
+    "API_URL2": "http://localhost/PHP/api",
+    "API_URL2": "http://localhost:8080/api",
+    "ERRORS_DICTIONARY":[
+        {
+            "key":"Invalid name/password",
+            "value":"Niepoprawna nazwa użytkownika lub hasło"
+        },
+        {
+            "key":"incorrect usernames/password",
+            "value":"Niepoprawna nazwa użytkownika lub hasło"
+        }
+    ]
+    ,
+    "STATUS_DICTIONARY":[
+        {
+            "key":"PLACED",
+            "value":"Zamówienie złożone"
+        },  
+        {
+            "key":"-1",
+            "value":"Zamówienie anulowane"
+        },
+        {
+            "key":"0",
+            "value":"Zamówienie złożone"
+        },
+        {
+            "key":"1",
+            "value":"Zamówienie w trakcie przygotowywania"
+        },
+        {
+            "key":"2",
+            "value":"Zamówienie w drodze do Ciebie"
+        },
+        {
+            "key":"3",
+            "value":"Zamówienie zakończone"
+        }
+    ]
+    ,
+    "PERMISSIONS_DICTIONARY":[
+        {
+            "key":"0",
+            "value":"Klient"
+        },
+        {
+            "key":"1",
+            "value":"Pracownik"
+        },
+        {
+            "key":"2",
+            "value":"Administrator"
+        }
+    ]
+}

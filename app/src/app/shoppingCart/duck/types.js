@@ -1,0 +1,13 @@
+const ADD_FOOD = "ADD_FOOD";
+const REMOVE_FOOD = "REMOVE_FOOD";
+const CLEAR_FOOD = "CLEAR_FOOD";
+const REDUCE_FOOD = "REDUCE_FOOD";
+const ADD_INFO_FOOD = "ADD_INFO_FOOD";
+
+export default{
+    ADD_FOOD,
+    REMOVE_FOOD,
+    CLEAR_FOOD,
+    REDUCE_FOOD,
+    ADD_INFO_FOOD
+}
